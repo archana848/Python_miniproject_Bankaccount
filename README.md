@@ -13,3 +13,24 @@ Withdraw money
 Add interest (savings)
 Use overdraft (current)
 Display balance
+
+output
+Account No: 101
+Name: Archana
+Balance: 1000
+Deposited successfully
+Account No: 101
+Name: Archana
+Balance: 3000
+Withdrawal successful
+Account No: 101
+Name: Archana
+Balance: 2500
+Interest added successfully
+Account No: 101
+Name: Archana
+Balance: 2625.0
+Withdrawal successful
+Account No: 102
+Name: Archana
+Balance: -2000
